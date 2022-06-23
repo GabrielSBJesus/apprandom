@@ -50,10 +50,10 @@ section{
     justify-content: center;
 }
 .litle-block{
-    width: 8rem;
+    width: 7rem;
     height: 47px;
     background-color: #2DFF1B;
-    margin: 5px;
+    margin: 3px;
 }
 #big-block{
     width: 295px;
