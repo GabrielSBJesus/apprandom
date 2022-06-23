@@ -1,3 +1,3 @@
 # apprandom
 
-## apenas umaaplicação web simples para treinamento de design
+## apenas uma aplicação web simples para treinamento de design
