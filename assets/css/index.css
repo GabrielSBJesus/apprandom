@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Open sans';
+}
+header{
+    background: #C6EF20;
+    width: 100%;
+    height: 66px;
+    border-radius: 0px 0px 30px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top:0;
+}
+#container-header{
+    border-radius: 20px;
+    padding: 3px;
+    background-color: white;
+    width: 80%;
+    height: 33px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#container-header p{
+    margin-left: 30px;
+}
+#container-header img{
+    margin-right: 30px;
+}
+section{
+    margin-top: 192px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+#break{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.litle-block{
+    width: 139px;
+    height: 47px;
+    background-color: #2DFF1B;
+    margin: 11px;
+}
+#big-block{
+    width: 295px;
+    height: 153px;
+    background-color: #10CC00;
+    box-shadow: 0px 7px 15px rgb(79, 79, 79);
+}
+#user{
+    width: 100%;
+    height: 298px;
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.user-circle{
+    background-color: #A7FF36;
+    border-radius: 50px;
+    width: 66px;
+    height: 66px;
+    margin: 49px;
+}
+footer{
+    background-color: #C6EF20;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 192px;
+    border-radius: 30px 30px 0px 0px;
+}
