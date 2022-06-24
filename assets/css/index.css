@@ -43,14 +43,14 @@ section{
     justify-content: center;
 }
 #break{
-    width: 50%;
+    width: 70%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 .litle-block{
-    width: 5rem;
+    width: 9rem;
     height: 47px;
     background-color: #2DFF1B;
     margin: 3px;
